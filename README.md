@@ -142,7 +142,6 @@ curl -X POST https://mobilepriceprediction.azurewebsites.net/predict \
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
 ### Summary
 
